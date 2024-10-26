@@ -1,5 +1,5 @@
-## Greetings👋
-# My name is Riki Ulir Niam
+# Greetings👋
+## My name is Riki Ulir Niam
 > Road to Web Developer
 
 <!--
