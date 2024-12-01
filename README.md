@@ -1,4 +1,4 @@
-# Greetings, My name is Riki Ulir Niam 👋
+# Greetings, My name is Riki Ulir Niam👋
 > Wanna be a good *Web Developer*
 
 <!--
