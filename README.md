@@ -1,4 +1,4 @@
-# Greetings everyone!, My name is Riki Ulir Niam👋
+# Greetings everyone!, My name is Riki Ulir Niam.
 > Wanna be a  *FullStack Web Developer*
 
 <!--
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
 
 -->
