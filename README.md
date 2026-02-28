@@ -1,4 +1,4 @@
-# Greetings everyone!, My name is Riki Ulir Niam.
+# Greetings everyone!, My name is Riki.
 > Wanna be a  *FullStack Web Developer*
 
 
