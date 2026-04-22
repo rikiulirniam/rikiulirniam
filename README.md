@@ -1,8 +1,5 @@
 # Greetings everyone!, My name is Riki
-I have interest to programming
-
-# 💫 About Me:
-Currently learning in college<br>
+I have interest to programming and currently learning in college<br>
 
 
 ## 🌐 Socials:
