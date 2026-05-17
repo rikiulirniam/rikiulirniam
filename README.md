@@ -10,5 +10,4 @@ I have interest to programming and currently learning in college<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rikiulirniam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=rikiulirniam&theme=dark&hide_border=false)<br/>
 
